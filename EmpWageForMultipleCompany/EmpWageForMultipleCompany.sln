@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31019.35
 MinimumVisualStudioVersion = 10.0.40219.1
+<<<<<<< HEAD:EmpWageForMultipleCompany/EmpWageForMultipleCompany.sln
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmpWageForMultipleCompany", "EmpWageForMultipleCompany\EmpWageForMultipleCompany.csproj", "{50F82E17-1EE6-481B-AD5E-5DC73F57B8FA}"
+=======
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmpWageUsingClassMethod", "EmpWageUsingClassMethod\EmpWageUsingClassMethod.csproj", "{60096401-F415-4900-8300-794C01A48113}"
+>>>>>>> e945006e27b06ab73f1fc46fdafec87009abb4dc:EmpWageUsingClassMethod/EmpWageUsingClassMethod.sln
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +15,26 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+<<<<<<< HEAD:EmpWageForMultipleCompany/EmpWageForMultipleCompany.sln
 		{50F82E17-1EE6-481B-AD5E-5DC73F57B8FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{50F82E17-1EE6-481B-AD5E-5DC73F57B8FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{50F82E17-1EE6-481B-AD5E-5DC73F57B8FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{50F82E17-1EE6-481B-AD5E-5DC73F57B8FA}.Release|Any CPU.Build.0 = Release|Any CPU
+=======
+		{60096401-F415-4900-8300-794C01A48113}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60096401-F415-4900-8300-794C01A48113}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60096401-F415-4900-8300-794C01A48113}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60096401-F415-4900-8300-794C01A48113}.Release|Any CPU.Build.0 = Release|Any CPU
+>>>>>>> e945006e27b06ab73f1fc46fdafec87009abb4dc:EmpWageUsingClassMethod/EmpWageUsingClassMethod.sln
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
+<<<<<<< HEAD:EmpWageForMultipleCompany/EmpWageForMultipleCompany.sln
 		SolutionGuid = {1D426517-3050-4C52-AB2F-1FF3F787863D}
+=======
+		SolutionGuid = {2ADE05EA-C786-43DB-8049-74DB073FC07E}
+>>>>>>> e945006e27b06ab73f1fc46fdafec87009abb4dc:EmpWageUsingClassMethod/EmpWageUsingClassMethod.sln
 	EndGlobalSection
 EndGlobal
