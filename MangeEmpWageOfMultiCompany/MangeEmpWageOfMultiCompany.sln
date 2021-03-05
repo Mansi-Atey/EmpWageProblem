@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31019.35
 MinimumVisualStudioVersion = 10.0.40219.1
+<<<<<<< HEAD:MangeEmpWageOfMultiCompany/MangeEmpWageOfMultiCompany.sln
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MangeEmpWageOfMultiCompany", "MangeEmpWageOfMultiCompany\MangeEmpWageOfMultiCompany.csproj", "{3163C213-B5F9-4DC5-827F-29E53CB3B873}"
+=======
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SaveEmpWageByCompany", "SaveEmpWageByCompany\SaveEmpWageByCompany.csproj", "{E4047BC3-8DD5-4C8A-A373-5B7C3BF340A0}"
+>>>>>>> 72138367c302573608246b7996e914000f9c4170:SaveEmpWageByCompany/SaveEmpWageByCompany.sln
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +15,26 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+<<<<<<< HEAD:MangeEmpWageOfMultiCompany/MangeEmpWageOfMultiCompany.sln
 		{3163C213-B5F9-4DC5-827F-29E53CB3B873}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{3163C213-B5F9-4DC5-827F-29E53CB3B873}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3163C213-B5F9-4DC5-827F-29E53CB3B873}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3163C213-B5F9-4DC5-827F-29E53CB3B873}.Release|Any CPU.Build.0 = Release|Any CPU
+=======
+		{E4047BC3-8DD5-4C8A-A373-5B7C3BF340A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4047BC3-8DD5-4C8A-A373-5B7C3BF340A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4047BC3-8DD5-4C8A-A373-5B7C3BF340A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4047BC3-8DD5-4C8A-A373-5B7C3BF340A0}.Release|Any CPU.Build.0 = Release|Any CPU
+>>>>>>> 72138367c302573608246b7996e914000f9c4170:SaveEmpWageByCompany/SaveEmpWageByCompany.sln
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
+<<<<<<< HEAD:MangeEmpWageOfMultiCompany/MangeEmpWageOfMultiCompany.sln
 		SolutionGuid = {3ACD00F1-45E0-44F5-A7B2-7CD16332A5F3}
+=======
+		SolutionGuid = {4B3AC4E2-A467-4350-BDFF-14BF6E3CCA83}
+>>>>>>> 72138367c302573608246b7996e914000f9c4170:SaveEmpWageByCompany/SaveEmpWageByCompany.sln
 	EndGlobalSection
 EndGlobal
